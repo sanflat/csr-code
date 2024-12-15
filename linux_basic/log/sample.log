@@ -1,0 +1,12 @@
+2024-12-14 10:00:01 INFO: System startup complete
+2024-12-14 10:01:15 WARNING: Disk space running low on /dev/sda1
+2024-12-14 10:05:42 ERROR: Failed to connect to database
+2024-12-14 10:10:23 INFO: User logged in successfully
+2024-12-14 10:15:37 DEBUG: Performing routine maintenance
+2024-12-14 10:20:11 ERROR: Unable to resolve DNS for example.com
+2024-12-14 10:25:45 INFO: Backup completed successfully
+2024-12-14 10:30:00 WARNING: High memory usage detected
+2024-12-14 10:35:22 INFO: Application update applied
+2024-12-14 10:40:33 DEBUG: Checking network connectivity
+2024-12-14 10:45:09 ERROR: Invalid user credentials
+2024-12-14 10:50:01 INFO: System shutdown initiated
